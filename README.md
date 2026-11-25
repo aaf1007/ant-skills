@@ -4,7 +4,7 @@ My Claude Code skills, grouped by what they're for.
 
 | folder | skills |
 |---|---|
-| [`development/`](development) | [`component-scout`](development/component-scout): searches my bookmarked UI component libraries for ready-made components before building UI by hand |
+| [`development/`](development) | [`component-scout`](development/component-scout): searches my bookmarked UI component libraries for ready-made components before building UI by hand<br>[`ship-pr`](development/ship-pr): `/ship-pr` commits, pushes, opens or updates the PR, self-reviews the diff, then checks CI and review comments |
 | [`content-creation/`](content-creation) | _(none yet)_ |
 
 ## Install
